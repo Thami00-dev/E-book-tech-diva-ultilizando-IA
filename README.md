@@ -1,7 +1,7 @@
 # E-book-tech-diva-ultilizando-IA
 Uma receita com ferramentas de IA para criar um ebook
 
-![Tech Diva Capa](layouts/LAYOUT_CAPA.png)
+![Tech Diva Capa](Imagens/capaoficial.png)
 
 # Tech Diva: Descomplicando sua Entrada na Tecnologia
 
