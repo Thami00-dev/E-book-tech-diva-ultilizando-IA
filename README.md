@@ -28,6 +28,6 @@ Conteúdo gerado via ChatGPT
 Imagens geradas via Leonardo.ai
 ## 📚 Materiais
 Imagens utilizadas em `Imagens`
-ebook gerado durante as aulas  em 
+ebook gerado durante as aulas  em `E-book - tech diva.pdf`
 ## 🛠️ Instruções de execução
 Utilize os prompts acima nas ferramentas sugeridas para gerar a base de material e utilize uma ferramenta de edição de documentos como power point, libreoffice, indesign para diagramação.
